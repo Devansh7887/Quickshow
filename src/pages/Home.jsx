@@ -1,12 +1,13 @@
 import { useState } from 'react'
+import HeroSection from '../component/HeroSection'
 
 
 function Home() {
 
   return (
-    <div>
-      
-    </div>
+    <>
+     <HeroSection/> 
+    </>
   )
 }
 
