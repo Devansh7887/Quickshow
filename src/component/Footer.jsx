@@ -50,7 +50,7 @@ function Footer() {
       </div>
       <p className="pt-4 text-center text-sm pb-5">
         Copyright {new Date().getFullYear()} ©{" "}
-        <a href="https://prebuiltui.com">QuickShow</a>. All Right Reserved.
+        <a href="/">QuickShow</a>. All Right Reserved.
       </p>
     </footer>
   );
